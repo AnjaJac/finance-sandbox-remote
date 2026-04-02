@@ -35,4 +35,4 @@ coverage/
 *.sqlite3
 
 # Django
-staticfiles/
+staticfiles/env_local/
